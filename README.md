@@ -5,13 +5,13 @@ _Això és una petita descripció del projecte_
 **Disposem d'un parell de paquets amb les seves respectives clases**
 
 1. cesf.math
-* Complex
-* Fraction
-* Matrix
+    * Complex
+    * Fraction
+    * Matrix
 2. cesf.math.test
-* TestComplex
-* TestFraction
-* TestMatrix
+    * TestComplex
+    * TestFraction
+    * TestMatrix
 
 En el primer paquet observem tres classes, la primera; Complex, es un conjunt de funcions per obtenir resultats d'operacions complicades
 com alguns de forma:
