@@ -1,6 +1,6 @@
 package cesf.math;
 
-// Classe per disposar de nombres complexos
+// Classe per disposar de nombres complexes
 // Els nombres complexos tenen la forma a+bi (ex. 3+4i),
 // on i és l'arrel quadrada de -1 i base dels nombres
 // imaginaris.
