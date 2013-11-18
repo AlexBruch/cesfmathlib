@@ -1,4 +1,14 @@
-# Exercici per als alumnes de DAM2A-EDE del CESF
+# **Descripció**
 
-Wea que pashaa
+_Això és una petita descripció del projecte_
 
+**Disposem d'un parell de paquets amb les seves respectives clases**
+
+1. cesf.math
+..* Complex
+..* Fraction
+..* Matrix
+2. cesf.math.test
+..* TestComplex
+..* TestFraction
+..* TestMatrix
