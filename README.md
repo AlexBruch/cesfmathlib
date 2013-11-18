@@ -5,13 +5,13 @@ _Això és una petita descripció del projecte_
 **Disposem d'un parell de paquets amb les seves respectives clases**
 
 1. cesf.math
-..* Complex.
-..* Fraction.
-..* Matrix.
+* Complex
+* Fraction
+* Matrix
 2. cesf.math.test
-..* TestComplex.
-..* TestFraction.
-..* TestMatrix.
+* TestComplex
+* TestFraction
+* TestMatrix
 
 En el primer paquet observem tres classes, la primera; Complex, es un conjunt de funcions per obtenir resultats d'operacions complicades
 com alguns de forma:
@@ -22,8 +22,8 @@ _i_ és l'arrel quadrada de _-1_ i base dels nombres imaginaris.
 
 Les parts d'un nombre complex s'anomenen:
 
-> ..* * a = part real.
-> ..* * b = part imaginària.
+> * * a = part real.
+> * * b = part imaginària.
 
 La segona classe, Fraction; serveix per representar [fraccions](http://ca.wikipedia.org/wiki/Fracci%C3%B3) on tindrem:
 
@@ -37,8 +37,8 @@ L'última clase del paquet, Matrix; serveix per calcular [matrius](http://ca.wik
 
 Aquí disposarem de les variables
 
-> ..* M.
-> ..* N.
+> * M.
+> * N.
 
 Per files i columnes.
 
